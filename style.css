@@ -1,0 +1,23 @@
+table,
+tr,
+td {
+  border: 1px solid black;
+  text-align: center;
+  font-size: 20px;
+}
+table {
+  width: 1000px;
+  height: 500px;
+}
+#birinchiID {
+  background-color: rgb(75, 238, 236);
+}
+.BirinchiKllass {
+  background-color: black;
+}
+.kok {
+  background-color: blue;
+}
+.qizil {
+  background-color: brown;
+}
