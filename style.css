@@ -9,9 +9,13 @@ table {
   width: 1000px;
   height: 500px;
 }
-.Yashil {
-  background-color: green;
+
+#BirichiId {
+  background-color: rgb(42, 165, 61);
 }
-#birinchiId {
-  background-color: blue;
+.BirinchiClass {
+  background-color: rgb(116, 232, 149);
+}
+.qizil {
+  background-color: red;
 }
