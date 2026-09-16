@@ -17,9 +17,15 @@
   letter-spacing: 20px;
 }
 .orqaFon {
-  width: 1000px;
-  height: 500px;
-  background-color: yellow;
+  width: 2000px;
+  height: 1000px;
+  background-color: rgb(255, 0, 0);
+  margin: 500px;
+
+  border: 100px solid rgb(251, 2, 255);
+  padding: 200px;
+  border-radius: 5000px;
+  box-shadow: 10px 50px 100px black;
 }
 .rasm {
   width: 1000px;
@@ -27,5 +33,8 @@
   background-image: url("./Sardor.png");
   background-size: contain;
   background-repeat: no-repeat;
-  opacity: 0.5;
+  opacity: 0.9;
+}
+.Dadesh {
+  display: flex;
 }
