@@ -1,0 +1,31 @@
+.Salom {
+  color: #34567897;
+  font-size: 50px;
+  font-family: "Arial", sans-serif;
+  font-weight: bold;
+  text-align: left;
+  text-decoration: underline;
+}
+.link {
+  font-size: 50px;
+  text-decoration: none;
+  color: black;
+}
+.avaz {
+  font-size: 50px;
+  text-transform: lowercase;
+  letter-spacing: 20px;
+}
+.orqaFon {
+  width: 1000px;
+  height: 500px;
+  background-color: yellow;
+}
+.rasm {
+  width: 1000px;
+  height: 1500px;
+  background-image: url("./Sardor.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  opacity: 0.5;
+}
