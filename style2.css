@@ -17,15 +17,11 @@
   letter-spacing: 20px;
 }
 .orqaFon {
-  width: 2000px;
-  height: 1000px;
-  background-color: rgb(255, 0, 0);
-  margin: 500px;
-
-  border: 100px solid rgb(251, 2, 255);
-  padding: 200px;
-  border-radius: 5000px;
-  box-shadow: 10px 50px 100px black;
+  width: 500px;
+  height: 500px;
+  background-color: blue;
+  border-radius: 250px;
+  box-shadow: 50px 50px 60px black;
 }
 .rasm {
   width: 1000px;
@@ -34,7 +30,4 @@
   background-size: contain;
   background-repeat: no-repeat;
   opacity: 0.9;
-}
-.Dadesh {
-  display: flex;
 }
