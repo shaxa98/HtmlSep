@@ -58,3 +58,10 @@ body {
   border: none;
   background-color: none;
 }
+.Shojahon {
+  width: 4000px;
+  height: 4000px;
+  background-image: url(./Shoh.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
